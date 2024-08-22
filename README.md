@@ -1,0 +1,1 @@
+This is a dynamic mock dashboard designed to visualize and analyze Starbucks' sales data in South America. It is equipped to accommodate informational updates and changes, ensuring it remains relevant and up-to-date.
